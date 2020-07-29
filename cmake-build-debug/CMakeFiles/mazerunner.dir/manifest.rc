@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/mazerunner/cmake-build-debug/CMakeFiles/mazerunner.dir/embed.manifest"

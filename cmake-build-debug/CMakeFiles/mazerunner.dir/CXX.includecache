@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/mazerunner/a1q2.cpp
+maze.h
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/mazerunner/maze.h
+
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/mazerunner/a1q2main.cpp
+maze.h
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/mazerunner/maze.h
+string
+-
+iostream
+-
+fstream
+-
+
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/mazerunner/maze.cpp
+maze.h
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/mazerunner/maze.h
+string
+-
+fstream
+-
+iostream
+-
+cstdio
+-
+
+C:/Users/fran_/Documents/C++ for Complete Beginners/UPF Projects/mazerunner/maze.h
+string
+-
+
